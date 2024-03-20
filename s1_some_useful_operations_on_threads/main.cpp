@@ -34,6 +34,6 @@ void run_code2()
 
 int main()
 {
-	run_code1();	 // example 1
-	//run_code2();	 // example 2
+	//run_code1();	 // example 1
+	run_code2();	 // example 2
 }
